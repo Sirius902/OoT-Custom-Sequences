@@ -14,7 +14,7 @@ If you believe a sequence can be better adapted you can either contact the origi
 
 You can also submit a true remix or original creation if you do not wish to recreate a piece of music entirely.
 
-# Credits
+# Credits 
 * [Spreadsheet](https://docs.google.com/spreadsheets/d/1Yvgjex502cB_dVvvZm0a88aGL4WNFOm-5XvEbZLkWqI/edit)
 * Darkangel93x ([Twitch](https://twitch.tv/darkangel93x), [Twitter](https://twitter.com/DarkangelTwitch))
 * TrenteR ([Twitch](https://twitch.tv/trenter_tr))
@@ -33,5 +33,6 @@ You can also submit a true remix or original creation if you do not wish to recr
 * Nighttime71
 * Apasher ([Youtube](https://www.youtube.com/channel/UCvqipEoq2CKQEcP-0MrKtlQ))
 * DuffleGamer
-* YoshiKyon
-* FQef ([Twitch](https://twitch.tv/fqef92))
+* YoshiKyon ([Twitch](https://twitch.tv/yoshikyon), [Twitter](https://twitter.com/yoshikyon))
+* FQef ([Twitch](https://twitch.tv/fqef92)) 
+* Kirox
